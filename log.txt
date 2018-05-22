@@ -1,0 +1,118 @@
+-------- Log Entry --------
+Mon May 21 2018 22:59:04 GMT-0700 (PDT)
+User used getTweets()
+-------- Log Entry --------
+Mon May 21 2018 23:00:34 GMT-0700 (PDT)
+User used getMovie()
+-------- Log Entry --------
+Mon May 21 2018 23:31:07 GMT-0700 (PDT)
+User used getTweets()
+-------- Log Entry --------
+Mon May 21 2018 23:37:30 GMT-0700 (PDT)
+User used getTweets()
+
+Title: Chicken Run
+Release Year: 23 Jun 2000
+IMdB Rating: 7.0
+Rotten Tomatoes Rating: 97%
+Country: UK, USA, France
+Language: English
+Plot: When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.
+Actors: Phil Daniels, Lynn Ferguson, Mel Gibson, Tony Haygarth
+
+Artist(s): PinkMusicElectronic
+The preview link: https://p.scdn.co/mp3-preview/df5779cfe410eb2a4fa2876bd17bd8890dffeef4?cid=8009f5074b2a46579374ff447840abf4
+Song's Name: Song2
+Album name: Song2
+
+Artist(s): Nirvana
+The preview link: null
+Song's Name: The Man Who Sold The World
+Album name: MTV Unplugged In New York
+
+Title: Blade Runner
+Release Year: 25 Jun 1982
+IMdB Rating: 8.2
+Rotten Tomatoes Rating: 90%
+Country: USA, Hong Kong
+Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+Actors: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+Album name: The Hits--Chapter One
+The preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8009f5074b2a46579374ff447840abf4
+
+Artist(s): King Henry
+Song's Name: I’ll Be There
+The preview link: https://p.scdn.co/mp3-preview/183723f124a438546e8b06ca18ac479b9c64e229?cid=8009f5074b2a46579374ff447840abf4
+Album name: For You - EP
+
+Artist(s): Various Artists
+Song's Name: Sister Christian
+The preview link: null
+Album name: Boogie Nights / Music From The Original Motion Picture
+
+Artist(s): Various Artists
+Song's Name: Into The Open Air - From "Brave" / Soundtrack Version
+The preview link: null
+Album name: Brave
+
+Artist(s): Graham BLVD
+Song's Name: Dance Into The Light
+The preview link: https://p.scdn.co/mp3-preview/41b54bec1b90c92f3db4108b97ba5a3847252680?cid=8009f5074b2a46579374ff447840abf4
+Album name: In The Air Tonight (In The Style of Phil Collins
+
+Artist(s): Creed
+Song's Name: With Arms Wide Open
+The preview link: null
+Album name: Human Clay
+
+Title: The Man in the Moon
+Release Year: 04 Oct 1991
+IMdB Rating: 7.4
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English
+Plot: A coming of age story set in the South of USA when Elvis was King.
+Actors: Sam Waterston, Tess Harper, Gail Strickland, Reese Witherspoon
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+The preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8009f5074b2a46579374ff447840abf4
+Album name: The Hits--Chapter One
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+The preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8009f5074b2a46579374ff447840abf4
+Album name: The Hits--Chapter One
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+The preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8009f5074b2a46579374ff447840abf4
+Album name: The Hits--Chapter One
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+The preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8009f5074b2a46579374ff447840abf4
+Album name: The Hits--Chapter One
+
+Artist(s): Backstreet Boys
+Song's Name: I Want It That Way
+The preview link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8009f5074b2a46579374ff447840abf4
+Album name: The Hits--Chapter One
+
+Title: Run Lola Run
+Release Year: 18 Jun 1999
+IMdB Rating: 7.7
+Rotten Tomatoes Rating: 93%
+Country: Germany
+Language: German, English, Japanese
+Plot: After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
+Actors: Franka Potente, Moritz Bleibtreu, Herbert Knaup, Nina Petri
+
+Artist(s): Gwen Stefani
+Song's Name: Hollaback Girl
+The preview link: null
+Album name: Love Angel Music Baby
