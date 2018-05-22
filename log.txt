@@ -116,3 +116,8 @@ Artist(s): Gwen Stefani
 Song's Name: Hollaback Girl
 The preview link: null
 Album name: Love Angel Music Baby
+
+Artist(s): The Shangri-Las
+Song's Name: Give Him A Great Big Kiss
+The preview link: null
+Album name: The Best Of The Shangri-Las
