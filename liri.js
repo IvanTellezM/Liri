@@ -74,7 +74,49 @@ function spotifySong(song) {
 // * Plot of the movie.
 // * Actors in the movie.
 
+function movie(movie) {
+    if (!movie) {
+        userInput = "Mr. Nobody";
+    } else {
+        userInput = movie
+    }
 
+    // Then run a request to the OMDB API with the movie specified
+    var queryUrl = "http://www.omdbapi.com/?t=" + userInput + "&y=&plot=short&apikey=40e9cece";
+
+
+
+
+    request(queryUrl, function(error, response, body) {
+
+        // If the request is successful
+        if (!error && response.statusCode === 200) {
+
+            // Parse the body of the site 
+            console.log("Title: " + JSON.parse(body).Title);
+            console.log("Release Year: " + JSON.parse(body).Released);
+            console.log("IMDB Rating: " + JSON.parse(body).imdbRating);
+            console.log("Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value);
+            console.log("Country: " + JSON.parse(body).Country);
+            console.log("Language: " + JSON.parse(body).Language);
+            console.log("Plot: " + JSON.parse(body).Plot);
+            console.log("Actors: " + JSON.parse(body).Actors);
+        } else {
+            return console.log('Error occurred: ' + err);
+        }
+
+        //adds text to log.txt
+        fs.appendFile('log.txt', "\nTitle: " + JSON.parse(body).Title + "\n", function() {});
+        fs.appendFile('log.txt', "Release Year: " + JSON.parse(body).Released + "\n", function() {});
+        fs.appendFile('log.txt', "IMdB Rating: " + JSON.parse(body).imdbRating + "\n", function() {});
+        fs.appendFile('log.txt', "Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value + "\n", function() {});
+        fs.appendFile('log.txt', "Country: " + JSON.parse(body).Country + "\n", function() {});
+        fs.appendFile('log.txt', "Language: " + JSON.parse(body).Language + "\n", function() {});
+        fs.appendFile('log.txt', "Plot: " + JSON.parse(body).Plot + "\n", function() {});
+        fs.appendFile('log.txt', "Actors: " + JSON.parse(body).Actors + "\n", function() {});
+
+    });
+}
 
 
 var askQuestion = function() {

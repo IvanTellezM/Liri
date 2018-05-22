@@ -121,3 +121,8 @@ Artist(s): The Shangri-Las
 Song's Name: Give Him A Great Big Kiss
 The preview link: null
 Album name: The Best Of The Shangri-Las
+
+Artist(s): Billy Idol
+Song's Name: Rebel Yell
+Album name: Rebel Yell
+The preview link: null
